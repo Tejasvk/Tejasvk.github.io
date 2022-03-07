@@ -29,7 +29,7 @@ machine learning and privacy conferences including ICML/AISTATS/KDD.
 
 My research background provides me the emotional tenacity required to navigate in the uncertain/unexplored waters.
 
-I am in the process of updating my GitHub. If would like to see some code samples, please feel free
+I am in the process of updating my [GitHub](https://github.com/Tejasvk). If would like to see some code samples, please feel free
 to ask.
 </p>
 
