@@ -18,7 +18,7 @@ I am no longer maintaining my [Warwick](https://warwick.ac.uk/fac/sci/dcs/people
 **Note: I am currently on industry job market (research/data scientist, machine learning engineer).** 
 
 
-As evident from my CV, my research topic is privacy preserving machine learning. I have 3 years
+As evident from my publications, my research topic is privacy preserving machine learning. I have 3 years
 of industry experience as a software engineer and a data scientist. I have competent programming
 skills in **Python (PyTorch, Sklearn, Numpy, Pandas, Pystan etc.)** and enough mathematical maturity to pick
 up most machine learning topics.
