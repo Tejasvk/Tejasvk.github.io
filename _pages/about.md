@@ -13,7 +13,9 @@ I am currently exploring the topic of privacy preserving Bayesian inference unde
 
 Before moving to Finland, I worked for my Ph.D thesis at the University of Warwick, UK mentored by [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/). Previously, I did my masters with [Prof. John Augustine](http://www.cse.iitm.ac.in/~augustine/index.html) at wonderful [IIT Madras](http://www.cse.iitm.ac.in/) in India. 
 
-**I am currently on industry job market (research/data scientist, machine learning engineer).** 
+I am no longer maintaining my [Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1554597) page.
+
+**Note: I am currently on industry job market (research/data scientist, machine learning engineer).** 
 
 
 As evident from my CV, my research topic is privacy preserving machine learning. I have 3 years
