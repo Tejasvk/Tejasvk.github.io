@@ -16,6 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
+seo_description          : "Site for Richard Tejas Kulkarni, Post-doctoral researcher at Aalto University"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -81,8 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Tejas Kulkarni"
-  avatar           : "profile.png"
-  bio              : ""
+  avatar           : "profile_tejas.jpg"
+  bio              : "Post-doctoral researcher at Aalto University"
+  location         : "Helsinki, Finland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=exZFfj4AAAAJ&hl=en"
   email            : "tejasvijaykulkarni@gmail.com"
