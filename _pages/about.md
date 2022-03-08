@@ -25,7 +25,7 @@ up most machine learning topics.
 
 I have worked on diverse topics including theory of distributed computing, privacy preserving
 technologies, statistical queries, and Bayesian inference. My research work has been published in top
-machine learning and privacy conferences including ICML/AISTATS/KDD. 
+machine learning and privacy conferences including ICML, AISTATS, and KDD. 
 
 My research background provides me the emotional tenacity required to navigate in the uncertain/unexplored waters.
 
