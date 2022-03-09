@@ -15,7 +15,8 @@ Before moving to Finland, I worked on my Ph.D thesis at the University of Warwic
 
 I am no longer maintaining my [Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1554597) page.
 
-**Note: I am currently on industry job market (research/data scientist, machine learning engineer).** 
+**Note: I am currently on industry job market (research/data scientist, machine learning engineer). Please get in touch if you happen to have an interesting
+opportunity.** 
 
 
 As evident from my publications, my research topic is privacy preserving machine learning. I have 3 years
