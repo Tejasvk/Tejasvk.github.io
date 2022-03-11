@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A short summary of my career and educational trajectory."
+title: "A summary of my career and educational trajectory."
 permalink: /cv/
 author_profile: true
 redirect_from:
