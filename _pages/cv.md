@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "A short summary of my career and educational trajectory."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a short summary of my career and educational trajectory.
+
 
 * Postdoc at Aalto University (Oct. 2019-)
 * PhD student at the University of Warwick (Nov. 2015 - Sept. 2019) with [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/).
