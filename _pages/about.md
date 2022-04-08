@@ -19,7 +19,7 @@ I am no longer maintaining my [Warwick](https://warwick.ac.uk/fac/sci/dcs/people
 opportunity.** 
 
 
-As evident from my publications, my research topic is privacy preserving machine learning. I have 3 years
+My research topic is privacy preserving machine learning. I have 3 years
 of industry experience as a software engineer and a data scientist. I have competent programming
 skills in **Python (PyTorch, Sklearn, Numpy, Pandas, Pystan etc.)** and enough mathematical maturity to pick
 up most machine learning topics.
@@ -30,6 +30,4 @@ machine learning (ICML/AISTATS/KDD), data mining/database (SIGMOD/VLDB/ICDE/TKDE
 
 My research background provides me the emotional tenacity required to navigate in the uncertain/unexplored waters.
 
-I am in the process of updating my [GitHub](https://github.com/Tejasvk). If would like to see some more code samples, please feel free
-to ask.
 
