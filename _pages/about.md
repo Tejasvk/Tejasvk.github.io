@@ -15,9 +15,6 @@ Before moving to Finland, I worked on my Ph.D thesis at the University of Warwic
 
 I am no longer maintaining my [Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1554597) page. It will be removed eventually by the University. 
 
-**Note: I am currently on industry job market (research/data scientist, machine learning engineer). Please get in touch if you happen to have an interesting
-opportunity.** 
-
 
 My research topic is privacy preserving machine learning. I have 3 years
 of industry experience as a software engineer and a data scientist. I have competent programming
@@ -28,6 +25,5 @@ I have worked on diverse topics including theory of distributed computing, priva
 technologies, statistical queries, and Bayesian inference. My research work has been published in top
 machine learning (ICML/AISTATS/KDD), data mining/database (SIGMOD/VLDB/ICDE/TKDE), and distributed computing (IPDPS) venues. 
 
-My research background provides me the emotional tenacity required to navigate in the uncertain/unexplored waters.
 
 
