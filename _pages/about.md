@@ -16,14 +16,6 @@ Before moving to Finland, I worked on my Ph.D thesis at the University of Warwic
 I am no longer maintaining my [Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1554597) page. It will be removed eventually by the University. 
 
 
-My research topic is privacy preserving machine learning. I have 3 years
-of industry experience as a software engineer and a data scientist. I have competent programming
-skills in **Python (PyTorch, Sklearn, Numpy, Pandas, Pystan etc.)** and enough mathematical maturity to pick
-up most machine learning topics.
-
-I have worked on diverse topics including theory of distributed computing, privacy preserving
-technologies, statistical queries, and Bayesian inference. My research work has been published in top
-machine learning (ICML/AISTATS/KDD), data mining/database (SIGMOD/VLDB/ICDE/TKDE), and distributed computing (IPDPS) venues. 
 
 
 
